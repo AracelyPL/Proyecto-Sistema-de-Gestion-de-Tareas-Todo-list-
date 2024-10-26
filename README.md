@@ -4,7 +4,8 @@ Proyecto: Sistema de Gestión de Tareas(Todo-list)
 
 Materia: Tecnologías de la Información I
 
-Descripcion General
+Descripcion General:
+
 El objetivo del proyecto es desarrollar un sistema de gesti´on de tareas (Todo-list)
 utilizando Node.js como entorno del lado del servidor, SQLite como base de
 datos para almacenar las tareas, y un frontend simple en HTML. El sistema
